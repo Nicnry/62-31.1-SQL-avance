@@ -5,6 +5,34 @@ Il contient mes **exercices pratiques**, mes **notes personnelles** ainsi que du
 
 ---
 
+## 🧰 Environnement & Outils
+
+### 🗄️ SGBD utilisé : **Oracle**
+
+Le cours est basé sur le **Système de Gestion de Bases de Données Oracle**.
+
+### 🖥️ Logiciel par défaut (officiel)
+- **Oracle SQL Developer** : outil officiel Oracle pour le développement SQL et PL/SQL  
+  > Utilisé en cours pour les démonstrations et les exercices pratiques
+
+### 💻 Mon environnement de développement personnel
+
+Je travaille sous **Visual Studio Code**, avec les extensions suivantes :
+
+1. **[Language PL/SQL](https://marketplace.visualstudio.com/items?itemName=xyz.plsql-language)**  
+   - 🆔 ID : `xyz.plsql-language`  
+   - 📝 Description : Support du langage PL/SQL (Oracle)  
+   - 📦 Version : `1.8.2`  
+   - 🏢 Éditeur : xyz  
+
+2. **[Oracle SQL Developer Extension for VSCode](https://marketplace.visualstudio.com/items?itemName=Oracle.sql-developer)**  
+   - 🆔 ID : `Oracle.sql-developer`  
+   - 📝 Description : Outils de développement complets pour SQL et PL/SQL  
+   - 📦 Version : `25.2.2`  
+   - 🏢 Éditeur : Oracle Corporation  
+
+---
+
 ## 📝 Informations sur le cours
 
 - **Code :** 62-31.1  
