@@ -10,9 +10,9 @@ CREATE TABLE patients (
     prenom VARCHAR(20)
 );
 
-CREATE SEQUENCE seq_consulatation;
+CREATE SEQUENCE seq_consultation;
 CREATE TABLE consultations (
-    numero Number(10) DEFAULT seq_consulatation.Nextval CONSTRAINT PK_consultations PRIMARY KEY,
+    numero Number(10) DEFAULT seq_consultation.Nextval CONSTRAINT PK_consultations PRIMARY KEY,
     date_consult DATE,
     type_consult CHAR(1),
     prix Number(4),
